@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-ReactTabs",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-ReactTabs",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
